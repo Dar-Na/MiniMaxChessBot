@@ -5,3 +5,7 @@ SI wykorzystuje drzewo Minimax, którego wartości określane są funkcją heury
 Gra jest napisana w języku JAVA z pomocą bibliotek <br/>
 Markup : * JFRAME — obsługa grafiki
          * CHESSLIB — dla generowania legalnych ruchów szachowych na podstawie pozycji na szachownicy.
+          Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
