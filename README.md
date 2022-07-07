@@ -1,5 +1,8 @@
 ## MiniMaxChessBot
-
+Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 Celem projektu było stworzenie partii szachów w wersji 2D, w której sztuczna inteligencja walczy się ze sobą. <br/>
 SI wykorzystuje drzewo Minimax, którego wartości określane są funkcją heurystyczną. Drzewo jest na bieżąco rozszerzane w głąb z każdym następnym ruchem SI. <br/>
 Gra jest napisana w języku JAVA z pomocą bibliotek <br/>
